@@ -1,0 +1,15 @@
+{
+		"name": "ssss",
+		"replaces": "Shrine",
+		"uniqueTo": "Arabia",
+		"cost": 50,
+		"requiredTech": "Civil Service",
+		"uniques": [
+		"[+1 Gold] per [4] population [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Nobles' Gathering]>",
+			"Destroyed when the city is captured"
+    ]
+}
