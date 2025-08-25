@@ -3,6 +3,6 @@
 		"replaces": "Shrine",
 		"uniqueTo": "Arabia",
 		"cost": 50,
-		"requiredTech": "Civil Service"
+		"requiredTech": "Pottery"
 }
 	
