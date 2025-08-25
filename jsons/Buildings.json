@@ -2,6 +2,7 @@
   {
     "name": "Mosque",
     "uniqueTo": "Arabia",
+    "replaces": "Shrine",
     "faith": 5,
     "culture": 1,
     "happiness": 2,
