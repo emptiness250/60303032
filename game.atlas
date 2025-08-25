@@ -1,9 +1,9 @@
-ConstructionIcons.png
+Game.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-BuildingIcons/Small mosque
+BuildingIcons/Small Mosque
   rotate: false
   xy: 1292, 1372
   size: 100, 100
