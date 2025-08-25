@@ -8,6 +8,7 @@
     "happiness": 2,
     "cost": 0,
     "requiredTech": "Pottery",
+    "portrait": "Mosque.png",
     "isFreeBuilding": true
   }
 ]
