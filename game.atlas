@@ -1,3 +1,8 @@
+ConstructionIcons.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
 BuildingIcons/Small mosque
   rotate: false
   xy: 1292, 1372
