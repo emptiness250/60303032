@@ -1,9 +1,11 @@
 [
-{
-		"name": "ssss",
-		"replaces": "Shrine",
-		"uniqueTo": "Arabia",
-		"cost": 50,
-		"requiredTech": "Pottery"
-}
-]	
+  {
+    "name": "Mosque",
+    "uniqueTo": "Arabia",
+    "faith": 5,
+    "culture": 1,
+    "happiness": 2,
+    "cost": 0,
+    "isFreeBuilding": true
+  }
+]
