@@ -1,13 +1,7 @@
-
-game.png
-size: 256, 256
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
 BuildingIcons/Small Mosque
   rotate: false
-  xy: 2, 2
-  size: 200, 200
-  orig: 200, 200
+  xy: 1292, 1372
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
