@@ -20,8 +20,7 @@
     "happiness": 3,
     "cost": 80,
     "requiredBuilding": "Small Mosque",
-    "requiredTech": "Philosophy",
-    "portrait": "Big Mosque.png"
+    "requiredTech": "Philosophy"
   }
   
 ]
