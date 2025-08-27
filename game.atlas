@@ -10,16 +10,16 @@ BuildingIcons/Small Mosque
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Big
+BuildingIcons/Dar al
   rotate: false
-  xy: 730, 436
+  xy: 1176, 1912
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Dar al
+BuildingIcons/Big
   rotate: false
-  xy: 1176, 1912
+  xy: 730, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
