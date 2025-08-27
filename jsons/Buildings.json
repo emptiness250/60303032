@@ -3,12 +3,14 @@
     "name": "Small Mosque",
     "uniqueTo": "Arabia",
     "replaces": "Shrine",
+    "maintenance" 0,
     "faith": 4,
     "culture": 1,
     "happiness": 2,
     "cost": 0,
     "requiredTech": "Pottery",
-    "isFreeBuilding": true
+    "isFreeBuilding": true,
+    "uniques": ["Only available <when religion is enabled>"]
   },
   {
     "name": "Big Mosque",
@@ -20,7 +22,19 @@
     "happiness": 3,
     "cost": 80,
     "requiredBuilding": "Small Mosque",
-    "requiredTech": "Philosophy"
+    "requiredTech": "Philosophy",
+    "uniques": ["Only available <when religion is enabled>"]
+  },
+  {
+    "name": "Dar al-Ifta",
+    "uniqueTo": "Arabia",
+    "replaces": "Grand Temple",
+    "maintenance": 0,
+    "faith": 16,
+    "culture": 4,
+    "uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
+			"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"],
+  	"requiredTech": "Theology",
+  	"isNationalWonder": true
   }
-  
 ]
