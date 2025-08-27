@@ -3,16 +3,16 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-BuildingIcons/Big
+BuildingIcons/Small Mosque
   rotate: false
-  xy: 730, 436
+  xy: 1292, 1372
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Small Mosque
+BuildingIcons/Big
   rotate: false
-  xy: 1292, 1372
+  xy: 730, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
