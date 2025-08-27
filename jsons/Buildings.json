@@ -33,7 +33,7 @@
 	"cost": 100,
   	"requiredTech": "Theology",
   	"isNationalWonder": true,
-	"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
+	"uniques": ["Only available <if [Big Mosque] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city",
 			"[+100]% Natural religion spread [in this city]", "Only available <when religion is enabled>", "Can only be built <in [Holy] cities>"]
   }
 ]
